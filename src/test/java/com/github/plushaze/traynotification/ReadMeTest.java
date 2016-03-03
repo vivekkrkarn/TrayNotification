@@ -17,7 +17,7 @@ import java.util.concurrent.CountDownLatch;
 public final class ReadMeTest {
 
 	private volatile TrayNotification tray;
-
+/*
 	@BeforeClass
 	public static void initializeJavaFX() throws InterruptedException {
 		final CountDownLatch latch = new CountDownLatch(1);
@@ -78,6 +78,6 @@ public final class ReadMeTest {
 			tray.setImage(whatsAppImg);
 			tray.showAndDismiss(Duration.seconds(2));
 		});
-	}
+	}*/
 
 }
