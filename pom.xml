@@ -6,7 +6,7 @@
 
     <groupId>com.github.plushaze.traynotification</groupId>
     <artifactId>TrayNotification</artifactId>
-    <version>0.3</version>
+    <version>21</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -17,8 +17,8 @@
     </dependencies>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
     <build>
